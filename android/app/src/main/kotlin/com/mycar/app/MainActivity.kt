@@ -1,4 +1,4 @@
-package com.mercedesbenz.mercedes_benz
+package com.mycar.app
 
 import io.flutter.embedding.android.FlutterActivity
 
