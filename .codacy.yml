@@ -1,0 +1,7 @@
+exclude_paths:
+  - "lib/l10n/generated/**"
+  - "test/**"
+  - "android/**"
+  - "ios/**"
+  - "web/**"
+  - "build/**"
