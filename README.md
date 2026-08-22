@@ -47,10 +47,6 @@ Each bottom-nav destination lives in its own folder under `lib/presentation/feat
 
 GitHub Actions runs `flutter analyze` and `flutter test` on every push and pull request to `main` and `develop` (see `.github/workflows/ci.yml`).
 
-## Code quality
-
-[Codacy](https://app.codacy.com) analyzes every push and pull request to `main` and `develop` (see `.github/workflows/codacy.yml` and `.codacy.yml`) and grades the repo A–F on maintainability, complexity, and duplication. Requires a `CODACY_PROJECT_TOKEN` repository secret from the connected Codacy project.
-
 ## Branching
 
 - `main` — release-ready
