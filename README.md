@@ -1,5 +1,7 @@
 # MyCar
 
+[![CI](https://github.com/anil291987/MyCar/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/anil291987/MyCar/actions/workflows/ci.yml)
+
 A Flutter car companion app for managing a vehicle — lock/unlock, climate control, remote start, vehicle status, navigation, and service booking — built with clean architecture (domain → data → presentation).
 
 ## Features
